@@ -1,4 +1,4 @@
-![1](https://github.com/Adarsh-git02/Gana.com-Clone/assets/113299947/adc01af0-a39f-4fd7-9f6e-e6f018577c44)# Gana.com-Clone Project
+# Gana.com-Clone Project
 This is a music website. Everyone have used it for listen songs. This project fully related to music website. This was a team project, my team consisted of two people. We both have cloned the gaana.com. We both have used only HTML, CSS and JavaScript. The project overview look like original website. I mention it below.
 
 # Technologies and Tools Used:
