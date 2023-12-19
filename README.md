@@ -1,5 +1,5 @@
 # Gana.com-Clone Project
-This is a music website. Everyone have used it for listen songs. This project fully related to music website. This was a team project, my team consisted of two people. We both have cloned the gaana.com. We both have used only HTML, CSS and JavaScript. The project overview look like original website. I mention it below.
+This is a music website. Everyone have used it for listen songs. This project fully related to music website. Technologies used are HTML, CSS and JavaScript only. The project overview look like original website.
 
 # Technologies and Tools Used:
 
